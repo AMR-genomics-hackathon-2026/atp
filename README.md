@@ -20,12 +20,6 @@ ATP is a Nextflow-based pipeline for analysing the geNomad results from the ATB 
 ### Basic Run
 
 ```bash
-nextflow run main.nf
-```
-
-### With Parameters
-
-```bash
 nextflow run main.nf --fasta <input.fasta>
 ```
 
