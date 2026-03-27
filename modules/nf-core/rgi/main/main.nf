@@ -55,7 +55,7 @@ process RGI_MAIN {
     rgi \\
         main \\
         ${args2} \\
-        --num_threads ${task.cpus} \\
+        --num_threads 16 \\
         --output_file ${meta} \\
         --input_sequence ${fasta}
 
