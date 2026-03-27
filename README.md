@@ -14,6 +14,7 @@ ATP is a Nextflow-based pipeline for analysing the geNomad results from the ATB 
 
 - [Nextflow](https://www.nextflow.io/docs/latest/install.html)
 - [conda/mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)
+- [CARD](https://card.mcmaster.ca/download) for RGI
 
 ## Usage
 

@@ -5,3 +5,4 @@ SAMN30380202_plasmid.fna
 results/
 trace.tsv
 work/
+*.fna
